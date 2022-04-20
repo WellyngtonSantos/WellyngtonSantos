@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Wellyngton Santos</h1>
 <h3 align="center">Em transição de carreira para a área de desenvolvimento e programação</h3>
 
-- 🌱 (Aluno do DEVinHouse) Atualmente estou aprendendo desenvolvimento WEB **JavaScript, HTML, CSS, Python**
+- 🌱 (Aluno do DEVinHouse) Atualmente estou aprendendo desenvolvimento WEB **Vue.JS, JavaScript, HTML, CSS, Python**
 
 - 📫 Você me acha através do e-mail **wellyngtonc._santos@hotmail.com**
 
